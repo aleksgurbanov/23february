@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Task123february\Task123february\obj\Debug\netcoreapp3.1\Task123february.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Task123february\Task123february\obj\Debug\netcoreapp3.1\Task123february.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Task123february\Task123february\obj\Debug\netcoreapp3.1\Task123february.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Task123february\Task123february\obj\Debug\netcoreapp3.1\Task123february.AssemblyInfo.cs
+C:\Users\User\source\repos\Task123february\Task123february\obj\Debug\netcoreapp3.1\Task123february.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Task123february\Task123february\bin\Debug\netcoreapp3.1\Task123february.exe
+C:\Users\User\source\repos\Task123february\Task123february\bin\Debug\netcoreapp3.1\Task123february.deps.json
+C:\Users\User\source\repos\Task123february\Task123february\bin\Debug\netcoreapp3.1\Task123february.runtimeconfig.json
+C:\Users\User\source\repos\Task123february\Task123february\bin\Debug\netcoreapp3.1\Task123february.runtimeconfig.dev.json
+C:\Users\User\source\repos\Task123february\Task123february\bin\Debug\netcoreapp3.1\Task123february.dll
+C:\Users\User\source\repos\Task123february\Task123february\bin\Debug\netcoreapp3.1\Task123february.pdb
+C:\Users\User\source\repos\Task123february\Task123february\obj\Debug\netcoreapp3.1\Task123february.dll
+C:\Users\User\source\repos\Task123february\Task123february\obj\Debug\netcoreapp3.1\Task123february.pdb
+C:\Users\User\source\repos\Task123february\Task123february\obj\Debug\netcoreapp3.1\Task123february.genruntimeconfig.cache
